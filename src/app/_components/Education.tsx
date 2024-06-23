@@ -11,7 +11,7 @@ const Education = (props: Props) => {
           <div className="absolute -left-2 mt-1.5 h-3 w-3 rounded-full border border-white bg-blue-500"></div>
           <div className="rounded-lg bg-white p-2 shadow-md">
             <time className="text-sm font-semibold text-gray-500">
-              January 2024
+              Now
             </time>
             <h2 className="mb-2 text-sm font-semibold">Walailak University</h2>
           </div>
@@ -20,9 +20,9 @@ const Education = (props: Props) => {
           <div className="absolute -left-2 mt-1.5 h-3 w-3 rounded-full border border-white bg-blue-500"></div>
           <div className="rounded-lg bg-white p-2 shadow-md">
             <time className="text-sm font-semibold text-gray-500">
-              March 2022
+              March 2021
             </time>
-            <h2 className="mb-2 text-sm font-semibold">Panda School</h2>
+            <h2 className="mb-2 text-sm font-semibold">Sichonprachasan School</h2>
           </div>
         </div>
       </div>
