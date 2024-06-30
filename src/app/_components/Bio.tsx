@@ -5,7 +5,7 @@ type Props = {};
 
 const Bio = (props: Props) => {
   return (
-    <Card title="Bio">
+    <Card title="Bio" color="bg-rose-300">
       <div>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever

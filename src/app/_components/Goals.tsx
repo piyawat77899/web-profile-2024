@@ -5,7 +5,7 @@ type Props = {};
 
 const Goals = (props: Props) => {
   return (
-    <Card title="Goals">
+    <Card title="Goals" color="bg-rose-300">
       <div>
         <ul className="list-inside list-disc">
           <li>Travel around the world</li>
